@@ -1,0 +1,5 @@
+build/
+libraries/
+build.zip
+npm-debug.log
+node_modules/
